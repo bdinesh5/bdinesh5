@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey there, I'm Dinesh!
 
-<!--
-**bdinesh5/bdinesh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python & Django Developer 🐍 | AI Enthusiast 🤖**
 
-Here are some ideas to get you started:
+Building fast backends, clean user interfaces, and smooth digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Toolbox
+* **Languages**: Python, Java, JavaScript, HTML & CSS
+* **Frameworks**: Django, Flutter, Bootstrap
+* **Tools**: Windows,Git, macOS, VS Code
+
+---
+
+### 🚀 Featured Project
+🌾 **[Harvest & Co.](https://github.com/bdinesh5/harvest-co)** — Scalable grocery commerce platform built with Django & AI-accelerated workflows ⚡
