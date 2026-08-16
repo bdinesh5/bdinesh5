@@ -1,4 +1,4 @@
-# ✪ Hey there, I'm Dinesh!
+# Hey there, I'm Dinesh!
 
 `Full Stack Developer` · `Tech Enthusiast`
 
@@ -11,6 +11,7 @@
 * **Languages**: Python, Java, JavaScript, HTML, CSS
 * **Frameworks & Libraries**: Django, Spring Boot, React, Bootstrap
 * **Developer Tools**: Git, macOS, Windows, VS Code
+
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -45,10 +46,4 @@ Real-time video chat web application built with Django and Agora RTC for seamles
 
 `Backend Development` · `REST APIs` · `Web Applications` · `Real-Time Systems` · `Database Design`
 
----
 
-### ▸ Connect
-
-**GitHub**: [@bdinesh5](https://github.com/bdinesh5)
-
-*Always learning. Always building.*
