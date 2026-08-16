@@ -1,11 +1,11 @@
-<div align="center">
+
 
 # ⚡ Hey there, I'm Dinesh!
-`Backend Engineer` · `Software Developer` · `Tech Enthusiast`
+`Full Stack Developer` · `Software Developer` · `Tech Enthusiast`
 
 *Building scalable architectures, robust web services, and seamless digital experiences.*
 
-</div>
+
 
 ---
 
