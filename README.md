@@ -33,15 +33,6 @@ Real-time video chat web application built with Django and Agora RTC for seamles
 
 ---
 
-### ◈ What I'm Building
-
-* Full-stack web applications with Django and React
-* RESTful APIs and backend services with Django & Spring Boot
-* Real-time communication applications
-* Clean and responsive user interfaces
-
----
-
 ### ⌘ Developer Focus
 
 `Backend Development` · `REST APIs` · `Web Applications` · `Real-Time Systems` · `Database Design`
