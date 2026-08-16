@@ -17,8 +17,6 @@
 
 ---
 
-### 🧰 Tech Badges
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -30,6 +28,6 @@
 
 ---
 
-### 💻 Core Projects
+### 💻 Projects
 
 🌾 **[Harvest & Co.](https://github.com/bdinesh5/harvest-co)** — Scalable grocery commerce platform built with Django & modern backend workflows.
