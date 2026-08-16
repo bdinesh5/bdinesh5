@@ -30,4 +30,4 @@
 
 ### ✮ Projects
 
-🌾 **[Harvest & Co.](https://github.com/bdinesh5/harvest-co)** — Scalable grocery commerce platform built with Django & modern backend workflows.
+➊ **[Harvest & Co.](https://github.com/bdinesh5/harvest-co)** — Scalable grocery commerce platform built with Django & modern backend workflows.
