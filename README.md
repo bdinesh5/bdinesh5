@@ -2,7 +2,7 @@
 
 `Full Stack Developer` · `Tech Enthusiast`
 
-*Building scalable architectures, robust web services, and seamless digital experiences.*
+*Building full-stack applications, backend services, and real-time web experiences with modern technologies.*
 
 ---
 
