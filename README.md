@@ -1,7 +1,5 @@
 # 👋 Hey there, I'm Dinesh!
-
 **Python & Django Developer 🐍 | AI Enthusiast 🤖**
-
 Building fast backends, clean user interfaces, and smooth digital experiences.
 ---
 ### 🛠️ Tech Toolbox
@@ -16,4 +14,3 @@ Building fast backends, clean user interfaces, and smooth digital experiences.
 ---
 ### 🚀 Featured Project
 🌾 **[Harvest & Co.](https://github.com/bdinesh5/harvest-co)** — Scalable grocery commerce platform built with Django & AI-accelerated workflows ⚡
-
