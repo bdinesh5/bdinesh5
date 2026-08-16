@@ -1,6 +1,6 @@
 
 
-# ⚡ Hey there, I'm Dinesh!
+# ✪ Hey there, I'm Dinesh!
 `Full Stack Developer` · `Tech Enthusiast`
 
 *Building scalable architectures, robust web services, and seamless digital experiences.*
@@ -9,7 +9,7 @@
 
 ---
 
-### ⚙️ Technical Arsenal
+### ❁ Technical Arsenal
 
 * **Languages**: Python, Java, JavaScript, HTML, CSS
 * **Frameworks & Libraries**: Django, Spring Boot, Flutter, React, Bootstrap
@@ -28,6 +28,6 @@
 
 ---
 
-### 💻 Projects
+### ✮ Projects
 
 🌾 **[Harvest & Co.](https://github.com/bdinesh5/harvest-co)** — Scalable grocery commerce platform built with Django & modern backend workflows.
